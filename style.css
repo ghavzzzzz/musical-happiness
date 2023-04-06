@@ -1,0 +1,32 @@
+.h{
+
+    font-size: 23px;
+    width:100%;
+    margin:0px;
+}
+body{
+
+    background-size: cover;
+}
+#start , #s , #noo{
+
+    font-size: 18px;
+    color:whitesmoke
+}
+.c{
+
+    position: fixed;
+    color:paleturquoise;
+    bottom: 0;
+    width: 100%;
+    background-color: slateblue;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
